@@ -1,0 +1,4 @@
+ic_mean,ic_std,icir,hit_ratio,ic_positive_months,n_months,model,spread_mean,spread_icir
+0.0264,0.1222,0.216,0.624,58,93,ridge,0.0126,0.252
+0.028,0.0961,0.291,0.613,57,93,lgbm,0.0146,0.374
+-0.0173,0.148,-0.117,0.409,38,93,ranker,0.0076,0.124
